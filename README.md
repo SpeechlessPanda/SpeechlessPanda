@@ -1,15 +1,7 @@
 <h1 align="center">你好，这里是 SpeechlessPanda 🐼</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=500&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=560&height=40&lines=%E5%93%88%E5%B7%A5%E5%A4%A7%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89%E6%9C%AC%E7%A7%91%E7%94%9F%3B%E5%96%9C%E6%AC%A2%E6%89%93%E7%AF%AE%E7%90%83%EF%BC%8C%E4%B9%9F%E5%96%9C%E6%AC%A2%E7%9C%8B%E4%B9%A6%3B%E6%AD%A3%E5%9C%A8%E6%91%B8%20Rust%E3%80%81C%2B%2B%20%E5%92%8C%20AI%20Agent%3B%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF%EF%BC%8C%E6%85%A2%E6%85%A2%E6%9D%A5%E5%B0%B1%E5%A5%BD" alt="打字动画：喜欢打篮球，也喜欢看书 / 感兴趣 Rust、C++ 和 AI Agent / 学海无涯，慢慢来就好" />
-</p>
-
-<p align="center">
-  <a href="https://www.hitsz.edu.cn/"><img alt="哈尔滨工业大学（深圳）本科生" src="https://img.shields.io/badge/HITSZ-本科生-003DA5?style=for-the-badge" /></a>
-  <img alt="Rust，正在学" src="https://img.shields.io/badge/Rust-在学-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img alt="C++，正在学" src="https://img.shields.io/badge/C%2B%2B-在学-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img alt="AI Agent，正在看" src="https://img.shields.io/badge/AI_Agent-在看-6E40C9?style=for-the-badge" />
-  <a href="https://speechlesspanda.github.io/"><img alt="博客 speechlesspanda.github.io" src="https://img.shields.io/badge/Blog-speechlesspanda.github.io-E85D4C?style=for-the-badge&logo=rss&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=500&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=680&height=40&lines=%E5%96%9C%E6%AC%A2%E6%89%93%E7%AF%AE%E7%90%83%EF%BC%8C%E4%B9%9F%E5%96%9C%E6%AC%A2%E7%9C%8B%E4%B9%A6%3B%E6%84%9F%E5%85%B4%E8%B6%A3%20Rust%20%E3%80%81C%2B%2B%20%E3%80%81%20AI%20%E5%92%8C%20Agent%3B%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF" alt="打字动画：喜欢打篮球，也喜欢看书 / 感兴趣 Rust 、C++ 、 AI 和 Agent / 学海无涯" />
 </p>
 
 ## 关于我
