@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">你好，这里是 SpeechlessPanda 🐼</h1>
 
-<!--
-**SpeechlessPanda/SpeechlessPanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=sans-serif&weight=500&size=22&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=560&height=40&lines=%E5%93%88%E5%B7%A5%E5%A4%A7%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89%E6%9C%AC%E7%A7%91%E7%94%9F%3B%E5%96%9C%E6%AC%A2%E6%89%93%E7%AF%AE%E7%90%83%EF%BC%8C%E4%B9%9F%E5%96%9C%E6%AC%A2%E7%9C%8B%E4%B9%A6%3B%E6%AD%A3%E5%9C%A8%E6%91%B8%20Rust%E3%80%81C%2B%2B%20%E5%92%8C%20AI%20Agent%3B%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF%EF%BC%8C%E6%85%A2%E6%85%A2%E6%9D%A5%E5%B0%B1%E5%A5%BD" alt="打字动画：喜欢打篮球，也喜欢看书 / 感兴趣 Rust、C++ 和 AI Agent / 学海无涯，慢慢来就好" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.hitsz.edu.cn/"><img alt="哈尔滨工业大学（深圳）本科生" src="https://img.shields.io/badge/HITSZ-本科生-003DA5?style=for-the-badge" /></a>
+  <img alt="Rust，正在学" src="https://img.shields.io/badge/Rust-在学-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img alt="C++，正在学" src="https://img.shields.io/badge/C%2B%2B-在学-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img alt="AI Agent，正在看" src="https://img.shields.io/badge/AI_Agent-在看-6E40C9?style=for-the-badge" />
+  <a href="https://speechlesspanda.github.io/"><img alt="博客 speechlesspanda.github.io" src="https://img.shields.io/badge/Blog-speechlesspanda.github.io-E85D4C?style=for-the-badge&logo=rss&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 关于我
+
+你好，这里是 **SpeechlessPanda**！我是一名哈尔滨工业大学（深圳）的本科生，喜欢打篮球 🏀 和看书 📖，热爱技术和开源。
+
+我是一个很平庸的人，很多方面都接触过一点，但是每个方面都了解的不够深入，常常因为看不懂技术交流群在讲什么而感到学海无涯 🌊（
+
+我现在对这些方面比较感兴趣：
+
+- **语言**：Rust 🦀、C++
+- **AI**：Agent 🤖，和除了具身智能的其他？
+
+欢迎多多关注我的[博客](https://speechlesspanda.github.io/)和项目。我不想成为什么大佬，所以你能认识我，我已经很高兴啦 ✨
+
+## About
+
+Hi, this is **SpeechlessPanda**! I'm an undergraduate at Harbin Institute of Technology, Shenzhen. I like basketball 🏀 and reading 📖, and I care about tech and open source.
+
+I'm a pretty ordinary person. I've touched a little of a lot of things, but none of them very deeply. I often can't follow what people are saying in tech group chats, and that's when the sea of learning feels endless 🌊 (
+
+What I'm interested in right now:
+
+- **Languages**: Rust 🦀 and C++
+- **AI**: agents 🤖, and everything else except embodied intelligence?
+
+Feel free to follow my [blog](https://speechlesspanda.github.io/) and projects. I'm not trying to become some big name — if you know who I am, I'm already glad ✨
+
+## 动态 / Activity
+
+<p align="center">
+  <a href="https://github.com/SpeechlessPanda">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=SpeechlessPanda&show_icons=true&theme=dark_github&hide_border=true&locale=cn&rank_icon=github" />
+      <img alt="GitHub 统计：近一年提交、星标、PR" src="https://github-stats-extended.vercel.app/api?username=SpeechlessPanda&show_icons=true&theme=light_github&hide_border=true&locale=cn&rank_icon=github" />
+    </picture>
+  </a>
+  <a href="https://github.com/SpeechlessPanda">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=SpeechlessPanda&layout=compact&langs_count=6&theme=dark_github&hide_border=true&locale=cn" />
+      <img alt="仓库体积最高的语言" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SpeechlessPanda&layout=compact&langs_count=6&theme=light_github&hide_border=true&locale=cn" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SpeechlessPanda/SpeechlessPanda/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SpeechlessPanda/SpeechlessPanda/output/github-contribution-grid-snake.svg" />
+    <img alt="用贡献格子走出来的贪吃蛇" src="https://raw.githubusercontent.com/SpeechlessPanda/SpeechlessPanda/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
